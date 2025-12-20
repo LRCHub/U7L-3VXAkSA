@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "いのちの食べ方",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-20T17:15:25.966793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inochi No Tabekata (いのちの食べ方)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Inochi_No_Tabekata_(いのちの食べ方)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いのちの食べ方",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_いのちの食べ方_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いのちの食べ方",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_いのちの食べ方_Eve.txt"
+    }
+  ]
+}
